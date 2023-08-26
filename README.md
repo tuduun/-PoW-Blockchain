@@ -21,7 +21,7 @@
 ## How to Use
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Follow the instructions provided in the repository to set up and run the blockchain.
+3. Run `npm install` at the root of your repository and `npm start`.
 
 ## Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
